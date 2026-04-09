@@ -1,4 +1,4 @@
-🧠 AI Email Spam Detection System
+🧠 Spamsheild
 
 An end-to-end machine learning application that classifies emails into Spam or Legitimate (Ham) categories. This project focuses on building a scalable pipeline for both training and real-time inference, along with an interactive web interface for testing predictions.
 
@@ -36,8 +36,8 @@ project/
 
 ⚡ Setup Instructions
 1. Clone the repo
-git clone <your-repo-link>
-cd your-project
+git clone <https://github.com/sakshamg251206/spamshield-ai.git>
+cd spamshield-ai
 2. Create virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
